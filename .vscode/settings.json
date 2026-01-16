@@ -1,0 +1,7 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "dbt.dbtIntegration": "fusion",
+    "dbt.enableNewLineagePanel": false,
+    "dbt.lineage.defaultExpansion": 1
+}
